@@ -1,0 +1,19 @@
+body {
+    background-color: #fae5d7;
+    color: #5a2e00;
+    font-family:'Courier New', serif;
+}
+h1 {
+    background-color: #ffd0a1;
+    font-family:'Courier New', serif;
+}
+h2 {
+    background-color: #ffd0a1;
+    font-family:'Courier New', serif;
+    font-size: 38px;
+}
+p {
+    background-color:#fae5d7;
+    color: #5a2e00;
+    font-family:'Courier New', serif;
+}
