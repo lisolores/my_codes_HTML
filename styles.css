@@ -12,6 +12,12 @@ h2 {
     font-family:'Courier New', serif;
     font-size: 38px;
 }
+h3{
+    background-color: rgba(255, 208, 161, 0.65);
+    font-family:'Courier New', serif;
+    padding: 30px;
+    margin: 50px;
+}
 p {
     background-color:#fae5d7;
     color: #5a2e00;
@@ -33,19 +39,27 @@ a:link{
     color: #2c1600;
     background-color: transparent;
     text-decoration: none;
+    padding: 30px;
+    margin: 50px;
 }
 a:visited{
     color: rgba(50, 23, 0, 0.26);
     background-color: transparent;
     text-decoration: none;
+    padding: 30px;
+    margin: 50px;
 }
 a:hover{
     color: #f48000;
     background-color: transparent;
     text-decoration: underline;
+    padding: 30px;
+    margin: 50px;
 }
 a:active{
     color: rgba(255, 138, 0, 0.54);
     background-color: transparent;
     text-decoration: underline;
+    padding: 30px;
+    margin: 50px;
 }
