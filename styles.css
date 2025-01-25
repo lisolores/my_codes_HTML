@@ -47,3 +47,6 @@ a:link, a:visited {
 a:hover, a:active {
     background-color: rgb(244, 128, 0);
 }
+img{
+    width: 800px;
+}
