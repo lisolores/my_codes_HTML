@@ -4,11 +4,11 @@ body {
     font-family:'Courier New', serif;
 }
 h1 {
-    background-color: #ffd0a1;
+    background-color: rgba(255, 208, 161, 0.65);
     font-family:'Courier New', serif;
 }
 h2 {
-    background-color: #ffd0a1;
+    background-color: rgba(255, 208, 161, 0.65);
     font-family:'Courier New', serif;
     font-size: 38px;
 }
