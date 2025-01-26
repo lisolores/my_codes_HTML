@@ -68,4 +68,4 @@ th,td {
     margin: 50px;
     border-spacing: 30px;
 }
-
+tr:hover {background-color: #fae5d7;}
