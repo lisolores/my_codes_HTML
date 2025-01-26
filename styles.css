@@ -106,3 +106,11 @@ li a:hover {
     display: grid;
     grid-template-columns: 30% 30% 30%;
 }
+/*here we work with classes*/
+.city {
+    background-color: #6c1100;
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
