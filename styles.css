@@ -68,4 +68,8 @@ th,td {
     margin: 50px;
     border-spacing: 30px;
 }
-tr:hover {background-color: #fae5d7;}
+ul{
+    list-style-type: disc;
+    padding: 30px;
+    margin: 50px;
+}
