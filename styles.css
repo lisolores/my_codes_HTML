@@ -95,6 +95,14 @@ li a {
 li a:hover {
     background-color: #111111;
 }
+.mycontainer {
+    width:100%;
+    overflow:auto;
+}
+.mycontainer div {
+    width:33%;
+    float:left;
+}
 div {
     width:300px;
     padding: 30px;
