@@ -101,9 +101,6 @@ li a:hover {
 .mycontainer > div {
     width:40%;
 }
-div {
-    width:600px;
-}
 /*another way how to make table*/
 .grid-container {
     display: grid;
