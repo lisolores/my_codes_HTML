@@ -114,3 +114,7 @@ li a:hover {
     margin: 20px;
     padding: 20px;
 }
+.note {
+    font-size: 120%;
+    color: #6c1100;
+}
