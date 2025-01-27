@@ -2,6 +2,7 @@ body{
     font-family:'Courier New', serif;
     background-image: url("background image.jpg");
     background-repeat: no-repeat;
+    color: #111111;
 }
 * {
     box-sizing: border-box;
@@ -14,12 +15,10 @@ body{
 }
 
 .menu a {
-    background-color: #e5e5e5;
     padding: 8px;
     margin-top: 7px;
     display: block;
     width: 100%;
-    color: black;
 }
 
 .main {
@@ -29,7 +28,6 @@ body{
 }
 
 .right {
-    background-color: #e5e5e5;
     float: left;
     width: 20%;
     padding: 15px;
