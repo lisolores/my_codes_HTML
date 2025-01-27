@@ -42,6 +42,12 @@ body{
     float: left;
     background-color: hsla(0, 0%, 90%, 0.53);
 }
+aside{
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+}
 
 @media only screen and (max-width: 620px) {
     /* For mobile phones: */
