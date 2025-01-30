@@ -1,9 +1,7 @@
 body{
-    font-family:'Courier New', serif;
     background-image: url("background image.jpg");
     width: 100%;
     background-repeat: no-repeat;
-    color: #111111;
 }
 * {
     box-sizing: border-box;
