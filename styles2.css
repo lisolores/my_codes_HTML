@@ -9,6 +9,7 @@ body{
 
 .image{
     width: 25%;
+    height: 25%;
     float: right;
 }
 
@@ -43,7 +44,6 @@ body{
 }
 .main-article{
     float: left;
-    background-color: hsla(0, 0%, 90%, 0.53);
 }
 aside{
     width: 30%;

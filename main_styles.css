@@ -1,5 +1,6 @@
 body {
     font-family:'Courier New', serif;
+    word-break:break-word;
 }
 h1 {
     font-family:'Courier New', serif;
