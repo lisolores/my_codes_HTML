@@ -1,121 +1,33 @@
 body {
-    background-color: #fae5d7;
-    color: #5a2e00;
     font-family:'Courier New', serif;
-    width: 100%;
 }
 h1 {
-    background-color: rgba(255, 208, 161, 0.65);
     font-family:'Courier New', serif;
 }
 h2 {
-    background-color: rgba(255, 208, 161, 0.65);
     font-family:'Courier New', serif;
     font-size: 38px;
 }
 h3{
-    background-color: rgba(255, 208, 161, 0.65);
     font-family:'Courier New', serif;
-    padding: 30px;
-    margin: 50px;
+    font-size: 25px;
 }
 p {
-    background-color:#fae5d7;
-    color: #5a2e00;
     font-family:'Courier New', serif;
-    border: 2px solid #7e4300;
-    padding: 30px;
-    margin: 50px;
 }
 button {
-    background-color:#fae5d7;
-    color: #5a2e00;
     font-family:'Courier New', serif;
     font-size: 35px;
-    border: 2px solid #7e4300;
     padding: 30px;
     margin: 50px;
 }
 a:link, a:visited {
-    background-color: #f48000;
-    color: #fae5d7;
     padding: 15px 25px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
 }
 
-a:hover, a:active {
-    background-color: rgb(244, 128, 0);
-}
 img{
-    width: 800px;
-}
-/*body {
-  background-image: url('img_girl.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
-} this is to make background picture*/
-table {
-    padding: 30px;
-    margin: 50px;
-}
-th,td {
-    border: 2px solid #5a2e00;
-    border-radius: 10px;
-    background-color: #ffb975;
-    padding: 30px;
-    margin: 50px;
-    border-spacing: 30px;
-}
-/*something difficult here about lists
-
-
-*/
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #2c1600;
-}
-
-li {
-    float: left;
-}
-
-li a {
-    display: block;
-    color: #fae5d7;
-    text-align: center;
-    padding: 10px;
-    text-decoration: none;
-}
-
-li a:hover {
-    background-color: #111111;
-}
-.mycontainer {
-    display: flex;
-}
-.mycontainer > div {
-    width:40%;
-}
-/*another way how to make table*/
-.grid-container {
-    display: grid;
-    grid-template-columns: 30% 30% 30%;
-}
-/*here we work with classes*/
-.city {
-    background-color: #6c1100;
-    color: white;
-    border: 2px solid black;
-    margin: 20px;
-    padding: 20px;
-}
-.note {
-    font-size: 120%;
-    color: #6c1100;
+    width: 25%;
 }
