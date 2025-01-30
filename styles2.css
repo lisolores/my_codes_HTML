@@ -1,5 +1,5 @@
 body{
-    /*background-image: url("background image2.jpg");*/
+    background-image: url("background image2.jpg");
     width: 100%;
     background-repeat: no-repeat;
 }
@@ -9,6 +9,7 @@ body{
 
 .image{
     width: 25%;
+    float: left;
 }
 
 .menu {
